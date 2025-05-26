@@ -1,7 +1,9 @@
-title: devlopr
-subtitle: A Portfolio Jekyll Theme Built for Developers
+title: Cloud | Data | AI Specialist
+subtitle: Tech for impact | Develop Secure, Scalable Solutions
 description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
+  Cloud & DevOps Engineer with 10+ years of experience delivering scalable infrastructure solutions across healthcare, public sector, and finance. 
+  Specialized in Azure, AWS, and open-source technologies, with a strong track record in national-scale digital health projects, CI/CD automation, and cloud security. 
+  Passionate about enabling impact through technology, mentoring, and innovation.
 
 url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -71,11 +73,11 @@ author_project_details:
                 visibility: true
 
 # social links
-twitter_username: xplor4r
-github_username:  sujaykundu777
-instagram_username: xplor4r
+twitter_username: 
+github_username:  buildwithdemis
+instagram_username: 
 # facebook_username: johndoe
-# linkedin_username: johndoe
+ linkedin_username: https://www.linkedin.com/in/demisew-mengistu-6aa1a163/
 # behance_username: johndoe
 # medium_username: johndoe
 # telegram_username: johndoe
